@@ -1,4 +1,5 @@
 Diagram for excerise Part 0.4
+Adding a new note
 
 
 ```mermaid
