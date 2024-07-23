@@ -37,3 +37,7 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 ```
+
+
+Tim Nightingale
+23 Jul 2024
