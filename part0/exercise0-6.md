@@ -1,5 +1,5 @@
-Diagram for excerise Part 0.6
-Single page app - adding new note
+# Diagram for excerise Part 0.6
+### Single page app - adding new note
 
 
 ```mermaid

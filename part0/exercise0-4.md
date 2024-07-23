@@ -1,6 +1,6 @@
-Diagram for excerise Part 0.4
-Adding a new note
+# Diagram for excerise Part 0.4
 
+### Adding a new note
 
 ```mermaid
 sequenceDiagram
@@ -38,7 +38,6 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 ```
-
 
 Tim Nightingale
 23 Jul 2024
